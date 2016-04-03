@@ -1,0 +1,20 @@
+{
+  "name": "crawl",
+  "version": "0.0.0",
+  "homepage": "https://github.com/wallaceyuan/crawl",
+  "authors": [
+    "wallaceyuan <1272864289@qq.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
